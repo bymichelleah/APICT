@@ -75,7 +75,7 @@ l## Proceso de creación del la aplicación web
 
 - **Prototipo de alta fidelidad**
 
-![Prototipo de alta fidelidad](./img/1.jpeg "alta fidelidad")
-![Prototipo de alta fidelidad](./img/2.jpeg "alta fidelidad")
-![Prototipo de alta fidelidad](./img/3.jpeg "alta fidelidad")
-![Prototipo de alta fidelidad](./img/4.jpeg "alta fidelidad")
+![Prototipo de alta fidelidad](./assets/img/1.jpeg "alta fidelidad")
+![Prototipo de alta fidelidad](./assets/img/2.jpeg "alta fidelidad")
+![Prototipo de alta fidelidad](./assets/img/3.jpeg "alta fidelidad")
+![Prototipo de alta fidelidad](./assets/img/4.jpeg "alta fidelidad")
